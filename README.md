@@ -17,6 +17,22 @@ Tasks Completed:
 - Visualized age distribution
 - Saved the cleaned dataset as a new CSV
 
+## Week 2 - Supervised Learning (Regression & Classification)
+
+### Assignments
+- Assignment 1: Built a Linear Regression model to predict house prices.
+- Assignment 2: Trained a Logistic Regression model to predict Titanic passenger survival.
+
+### Mini Project
+House Price Prediction Model
+
+Tasks Completed:
+- Loaded the housing dataset
+- Trained a Linear Regression model
+- Predicted house prices
+- Evaluated the model using R² Score
+- Plotted Actual vs Predicted house prices
+
 ### Technologies Used
 - Python
 - Pandas
