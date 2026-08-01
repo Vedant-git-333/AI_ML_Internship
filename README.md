@@ -17,6 +17,8 @@ Tasks Completed:
 - Visualized age distribution
 - Saved the cleaned dataset as a new CSV
 
+---
+
 ## Week 2 - Supervised Learning (Regression & Classification)
 
 ### Assignments
@@ -33,25 +35,41 @@ Tasks Completed:
 - Evaluated the model using R² Score
 - Plotted Actual vs Predicted house prices
 
+---
+
 ## Week 3 - Clustering, Dimensionality Reduction & Visualization
 
 ### Assignments
-
-* Assignment 1: Applied K-Means Clustering on the Iris dataset and visualized the clusters.
-* Assignment 2: Reduced the Iris dataset from 4 dimensions to 2 using PCA and visualized the results.
+- Assignment 1: Applied K-Means Clustering on the Iris dataset and visualized the clusters.
+- Assignment 2: Reduced the Iris dataset from 4 dimensions to 2 using PCA and visualized the results.
 
 ### Mini Project
-
 Iris Flower Clustering Project
 
 Tasks Completed:
+- Loaded the Iris dataset
+- Applied K-Means Clustering (k = 3)
+- Reduced dimensions using PCA
+- Visualized the clusters using a scatter plot
+- Compared predicted clusters with the actual flower species
 
-* Loaded the Iris dataset
-* Applied K-Means Clustering (`k = 3`)
-* Reduced dimensions using PCA
-* Visualized the clusters using a scatter plot
-* Compared predicted clusters with the actual flower species
+---
 
+## Week 4 - Major Project (Capstone Project)
+
+### Project
+Heart Disease Prediction
+
+Tasks Completed:
+- Loaded the Heart Disease dataset
+- Explored the dataset and checked for missing values
+- Applied feature scaling using StandardScaler
+- Split the dataset into training and testing sets
+- Trained a Logistic Regression model
+- Evaluated the model using Accuracy, Precision and Recall
+- Visualized the Confusion Matrix
+- Visualized the ROC Curve
+- Predicted whether a patient is likely to have heart disease
 
 ### Technologies Used
 - Python
