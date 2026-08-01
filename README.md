@@ -33,6 +33,26 @@ Tasks Completed:
 - Evaluated the model using R² Score
 - Plotted Actual vs Predicted house prices
 
+## Week 3 - Clustering, Dimensionality Reduction & Visualization
+
+### Assignments
+
+* Assignment 1: Applied K-Means Clustering on the Iris dataset and visualized the clusters.
+* Assignment 2: Reduced the Iris dataset from 4 dimensions to 2 using PCA and visualized the results.
+
+### Mini Project
+
+Iris Flower Clustering Project
+
+Tasks Completed:
+
+* Loaded the Iris dataset
+* Applied K-Means Clustering (`k = 3`)
+* Reduced dimensions using PCA
+* Visualized the clusters using a scatter plot
+* Compared predicted clusters with the actual flower species
+
+
 ### Technologies Used
 - Python
 - Pandas
